@@ -2,7 +2,7 @@
 This is my first git hub repository to start practicing.
 
 #Practice test of lists.
-places = ['Japan', 'Malasiya', 'America', 'Eroupe']
+\nplaces = ['Japan', 'Malasiya', 'America', 'Eroupe']
 print(places) 
 print(sorted(places)) #changing list order temporary.
 
